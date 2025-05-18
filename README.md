@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Natsucoding
-- 👀 I’m interested in c++, js, html, css, python
-- 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me twitter: @Natsufnbr
